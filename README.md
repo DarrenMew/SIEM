@@ -1,12 +1,12 @@
 # Creating my own simple SIEM
 The main goal of this project is to create a system that can watch for security events on my system. 
 
-I did this by following this article by Christopher Elce : https://medium.com/@christoff.elce/setting-up-a-home-lab-for-elastic-siem-a-step-by-step-guide-e85f3750eb25
+I did this by following this article by Christopher Elce: https://medium.com/@christoff.elce/setting-up-a-home-lab-for-elastic-siem-a-step-by-step-guide-e85f3750eb25
 
-So First of All you have to sign up for a account at elastic.com 
-Followin that your are prompted to create a depolyment ( This is the big overarching system that will be monitoring and tracking everything ) 
+So First of All you have to sign up for an account at elastic.com 
+Following that you are prompted to create a deployment ( This is the big overarching system that will be monitoring and tracking everything ) 
 
-From there we install the Defend Instance which allows us to keep track of all the diffrent events that are taking place. Now because we are doing this through a VM set up the agrent on our VM and ultimatly then it was time to staet creating some secuirty events. 
+From there we install the Defend Instance which allows us to keep track of all the diffrent events taking place. Now because we are doing this through a VM I set our VM as an agent and ultimately then it was time to start creating some security events. 
 
 I did this by running an NMAP scan. 
 
