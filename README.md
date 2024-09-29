@@ -1,4 +1,4 @@
-# SIEM
+# Creating my own simple SIEM
 The main goal of this project is to create a system that can watch for security events on my system. 
 
 I did this by following this article by Christopher Elce : https://medium.com/@christoff.elce/setting-up-a-home-lab-for-elastic-siem-a-step-by-step-guide-e85f3750eb25
